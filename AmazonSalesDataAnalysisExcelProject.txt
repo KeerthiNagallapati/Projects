@@ -1,0 +1,26 @@
+Amazon Sales Data Analysis - Excel Project
+Project Overview
+This project focuses on analyzing Amazon sales data using Microsoft Excel. The dataset was sourced from Kaggle and processed to gain insights into total revenue, profit, and costs across different regions. The project includes data cleaning, transformation, and visualization using pivot tables and an interactive dashboard.
+
+Steps Followed
+1. Data Cleaning
+Removed duplicate entries to ensure data integrity.
+Checked for blank values and ensured no missing data.
+Formatted date fields properly.
+2. Data Transformation
+Calculated the difference between order and shipping dates to derive shipping duration.
+Aggregated key metrics such as Total Revenue, Total Profit, and Total Cost using pivot tables.
+3. Data Visualization
+Created a Summary Table to display sales performance by region.
+Designed an interactive dashboard using charts and slicers:
+Bar charts for Total Revenue, Profit, and Cost.
+Filters for Region, Sales Channel, Order Priority, and Shipping Duration to enhance user experience.
+Key Insights
+Sales trends across different regions.
+Comparison of revenue, profit, and costs.
+Analysis of shipping duration and order priority impact on sales.
+Tools Used
+Microsoft Excel
+Data Cleaning & Formatting
+Pivot Tables & Charts
+Slicers & Filters for Interactivity
